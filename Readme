@@ -1,0 +1,20 @@
+List of docs to be created
+
+----------------
+| Repo | State |
+----------------
+| Aidvisory-lib | |
+| backtrader | |
+| etf_engine | Completed |
+| kubernetes-migration | |
+| positions-monitor | |
+| strategy-inspector | |
+| telegram-bot | |
+| trade-exec | |
+| trade-logging-v2 | |
+| trade-platform | |
+| trading-layer-logics-v2 | |
+| users-positions-corrector | |
+| users-positions-detector | |
+| Datafetch | |
+
