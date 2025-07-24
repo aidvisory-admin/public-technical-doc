@@ -6,7 +6,7 @@
 | kubernetes-migration | |
 | positions-monitor | |
 | strategy-inspector | |
-| telegram-bot | Draft |
+| telegram-bot | Completed |
 | trade-exec | |
 | trade-logging-v2 | |
 | trade-platform | |
