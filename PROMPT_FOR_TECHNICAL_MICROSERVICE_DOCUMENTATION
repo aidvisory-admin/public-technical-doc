@@ -1,0 +1,79 @@
+I need you to create professional technical documentation in LaTeX for a microservice. Analyze the provided code files and create a document following these specific requirements:
+Document Purpose:
+
+Technical architecture documentation for VCs/stakeholders (NOT a developer guide)
+Focus on WHAT the service does, not HOW it's implemented
+Present as part of a larger platform ecosystem
+Objective tone without marketing hype or speculation
+
+Structure Requirements:
+
+Title Page: Service name, "Technical Architecture Documentation", brief tagline, colored box with key message
+Executive Summary: Service overview, key responsibilities (bullet points), technical components
+Architecture Section:
+
+TikZ diagram showing service relationships
+Brief file structure (use ASCII art, not special characters)
+Focus on integration patterns, not implementation
+
+
+Core Functionality:
+
+Service offerings overview
+The Pain it solves, its goal
+Interaction model (with visual diagram if applicable)
+Feature matrix (use tables with checkmarks if applicable and makes sense)
+Detailed feature descriptions (capabilities, limits, requirements)
+User workflows and journey examples
+
+
+Technical Implementation: High-level only (data flow processing, security measures, etc.)
+Deployment: Docker configuration, CI/CD pipeline overview
+Performance: Current metrics, scalability considerations
+Integration Points: External dependencies table, internal library usage
+Error Handling: Brief patterns with minimal code
+Recommendations: Current strengths, enhancement areas
+Conclusion: Summary without sales pitch
+
+Style Guidelines:
+
+Use \techfeature{} colored boxes for highlighting key information
+Include visual diagrams for architecture and workflows using TikZ
+Tables for comparisons (use booktabs for professional formatting)
+Minimal code snippets (only essential examples, prefer descriptions)
+Cross-reference sections with \ref{} and \label{}
+Include real constraints (rate limits, timeouts, etc.)
+Acknowledge limitations honestly
+
+Visual Elements to Include:
+
+Service architecture diagram (TikZ with color-coded nodes)
+User flow/menu hierarchy diagram
+Feature comparison matrix
+Integration points table
+
+What to AVOID:
+
+Long code implementations
+Function-by-function breakdowns
+Speculative features or growth projections
+Marketing language ("revolutionary", "game-changing")
+Technical jargon without context
+Promises about future capabilities
+
+LaTeX Requirements:
+
+Use standard packages: geometry, tikz, pgfplots, listings, hyperref, tcolorbox, tabularx, booktabs, amssymb
+Define color scheme: aidvisory (blue), success (green), warning (yellow)
+Set professional margins and spacing
+Include logo in header if provided
+
+Tone Requirements:
+
+Professional but accessible
+Feature-focused, not code-focused
+Honest about capabilities and limitations
+Clear about tier differentiations
+Emphasize practical use cases
+
+Remember: This document explains what business value the microservice provides and how it fits into the larger system, NOT how to code it. Think "product specification with technical context" rather than "developer documentation."
