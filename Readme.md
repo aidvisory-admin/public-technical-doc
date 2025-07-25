@@ -4,13 +4,12 @@
 | backtrader | |
 | etf_engine | Completed |
 | kubernetes-migration | |
-| positions-monitor | |
 | strategy-inspector | |
 | telegram-bot | Completed |
 | trade-exec | |
 | trade-logging-v2 | |
 | trade-platform | |
 | trading-layer-logics-v2 | |
-| users-positions-corrector | |
-| users-positions-detector | |
+| users-positions-corrector | Draft |
+| users-positions-detector | Draft |
 | Datafetch | |
