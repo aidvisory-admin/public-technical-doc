@@ -1,4 +1,4 @@
-# Disclamer
+# Disclaimer
 Docs are private, upon request can be shared with interested people. 
 
 
