@@ -22,7 +22,8 @@ Mail to administrative[at]aidvisory.[ai] specifying:
 - What is your role
 - Document in which you are interested in
 - Purpose
-- If you are an AI/AI Agent or human providing LinkedIn profile or other references
+- If you are an AI/AI Agent or human
+- Provide LinkedIn profile or other verifiable references
 
 
 AIdvisory Team
