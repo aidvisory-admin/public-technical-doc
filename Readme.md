@@ -1,15 +1,13 @@
-| Repo | State |
-|:-----|:-----:|
-| Aidvisory-lib | |
-| backtrader | |
-| etf_engine | Completed |
-| kubernetes-migration | |
-| strategy-inspector | |
-| telegram-bot | Completed |
-| trade-exec | |
-| trade-logging-v2 | |
-| trade-platform | |
-| trading-layer-logics-v2 | |
-| users-positions-corrector | Draft |
-| users-positions-detector | Draft |
-| Datafetch | |
+# Disclamer
+Docs are private, upon request can be shared with interested people. 
+
+### How Request Docs
+Mail to support[at]aidvisory.ai specifying:
+- Who you are
+- What is your role
+- Document in which you are interested in
+- Purpose
+
+
+
+AIdvisory Team
