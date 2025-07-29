@@ -7,7 +7,7 @@ Docs are private, upon request can be shared with interested people.
 | Service | State |
 |:-----|:-----:|
 | Telegram Bot | Avail | 
-| Datafetch | Not Avail | 
+| Datafetch | Draft | 
 | Trading Platform | Not Avail | 
 | Trading Layer | Not Avail | 
 | ETF Engine | Avail | 
