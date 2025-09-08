@@ -12,7 +12,7 @@ Docs are private, upon request can be shared with interested people.
 | Trading Layer | Not Avail | 
 | ETF Engine | Avail | 
 | TradeSync Pro | Avail | 
-| Orchestration Layer | Not Avail | 
+| Services Architecture | Avail | 
 | Strategy Inspector | Not Avail | 
 
 
