@@ -9,7 +9,7 @@ Docs are private, upon request can be shared with interested people.
 | Telegram Bot | Avail | 
 | Datafetch | Avail | 
 | Trading Platform | Not Avail | 
-| Trading Layer | Not Avail | 
+| Trading Layer | Draft | 
 | ETF Engine | Avail | 
 | TradeSync Pro | Avail | 
 | Services Architecture | Avail | 
