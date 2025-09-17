@@ -9,11 +9,11 @@ Docs are private, upon request can be shared with interested people.
 | Telegram Bot | Avail | 
 | Datafetch | Avail | 
 | Trading Platform | Not Avail | 
-| Trading Layer | Draft | 
+| Trading Layer | Avail | 
 | ETF Engine | Avail | 
 | TradeSync Pro | Avail | 
 | Services Architecture | Avail | 
-| Strategy Inspector | Not Avail | 
+| Strategy Inspector | Draft | 
 
 
 ### How Request Docs
