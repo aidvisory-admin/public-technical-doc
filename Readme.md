@@ -8,12 +8,12 @@ Docs are private, upon request can be shared with interested people.
 |:-----|:-----:|
 | Telegram Bot | Avail | 
 | Datafetch | Avail | 
-| Trading Platform | Not Avail | 
+| Trading Platform | Draft | 
 | Trading Layer | Avail | 
 | ETF Engine | Avail | 
 | TradeSync Pro | Avail | 
 | Services Architecture | Avail | 
-| Strategy Inspector | Draft | 
+| Strategy Inspector | Avail | 
 
 
 ### How Request Docs
