@@ -1,5 +1,5 @@
 # Disclaimer
-Docs are private, upon request can be shared with interested people. 
+Docs are private, excepting White Paper, upon request can be shared with interested people. 
 
 
 ### List of Available Docs
@@ -8,7 +8,7 @@ Docs are private, upon request can be shared with interested people.
 |:-----|:-----:|
 | Telegram Bot | Avail | 
 | Datafetch | Avail | 
-| Trading Platform | Draft | 
+| Trading Platform | Avail | 
 | Trading Layer | Avail | 
 | ETF Engine | Avail | 
 | TradeSync Pro | Avail | 
