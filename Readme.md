@@ -14,6 +14,7 @@ Docs are private, excepting White Paper, upon request can be shared with interes
 | TradeSync Pro | Avail | 
 | Services Architecture | Avail | 
 | Strategy Inspector | Avail | 
+| Live Trading Dashboard | Avail |
 
 
 ### How Request Docs
